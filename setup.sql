@@ -87,7 +87,7 @@ VALUES
      'FasFa account'),
 
      ('WashingtonPost',
-     'https://www.washingtonpost.com/',
+     'http://www.washingtonpost.com/',
      'Clark',
      'Kent',
      'NotSuperman',
@@ -96,7 +96,7 @@ VALUES
      'WashingtonPost account'),
 
      ('Youtube',
-     'https://www.youtube.com/',
+     'http://www.youtube.com/',
      'Hal',
      'Jordan',
      'NotGreenLantern',
@@ -105,7 +105,7 @@ VALUES
      'youtube account'),
 
      ('TikTok',
-     'https://www.tiktok.com/',
+     'http://www.tiktok.com/',
      'Barry',
      'Allan',
      'NotTheFlash',
