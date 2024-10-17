@@ -64,7 +64,7 @@ VALUES
      'Dick',
      'Grayson',
      'NotNightWing',
-     'FlyingGraysont@gmail.com',
+     'FlyingGrayson@gmail.com',
      AES_ENCRYPT('FlyingGrayson', @key_str,@init_vector),
      'Instagram account'),
 
